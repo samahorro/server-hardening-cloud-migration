@@ -1,0 +1,19 @@
+# Logs
+*.log
+
+# PowerShell temporary files
+*.ps1xml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets and environment files
+.env
+*.key
+*.pem
+*.pfx
+*.cer
+
+# Local reports
+reports/private/
