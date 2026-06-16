@@ -1,6 +1,4 @@
-# Server Hardening & Cloud Migration Portfolio Project
-
-> Sanitized portfolio version of a server hardening and cloud migration project focused on Windows Server security baselines, infrastructure documentation, access control, audit logging, and migration readiness.
+# Server Hardening & Cloud Migration Project
 
 ## Overview
 
@@ -19,30 +17,6 @@ The goal of this repo is to show the type of work I performed across system admi
 - NIST SP 800-53 control mapping
 - Validation checklists for post-hardening and post-migration review
 - Documentation written for both technical and non-technical stakeholders
-
-## Repository Structure
-
-```text
-server-hardening-cloud-migration-portfolio/
-├── README.md
-├── docs/
-│   ├── project-overview.md
-│   ├── hardening-methodology.md
-│   ├── cloud-migration-plan.md
-│   ├── nist-800-53-control-mapping.md
-│   └── validation-checklist.md
-├── hardening/
-│   └── windows/
-│       ├── scripts/
-│       │   └── windows_hardening.ps1
-│       └── checklists/
-│           └── windows-server-hardening-checklist.md
-├── migration/
-│   └── cloud-migration-runbook.md
-├── reports/
-│   └── sample-findings-template.md
-└── .gitignore
-```
 
 ## Project Scope
 
